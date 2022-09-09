@@ -1,0 +1,49 @@
+// Vitest Snapshot v1
+
+exports[`Particles > should build canvas context with information particles 1`] = `
+[
+  {
+    "props": {},
+    "transform": [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+    ],
+    "type": "beginPath",
+  },
+  {
+    "props": {
+      "anticlockwise": false,
+      "endAngle": 6.283185307179586,
+      "radius": 0,
+      "startAngle": 0,
+      "x": 2,
+      "y": 2,
+    },
+    "transform": [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+    ],
+    "type": "arc",
+  },
+  {
+    "props": {},
+    "transform": [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+    ],
+    "type": "closePath",
+  },
+]
+`;
