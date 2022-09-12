@@ -1,3 +1,5 @@
 # Particles create with Vanilla
 
-![demo.gif]
+<p align="center">
+    <img src="./demo.gif" alt="Demonstration">
+</p>
